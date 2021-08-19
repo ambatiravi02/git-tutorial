@@ -6,4 +6,9 @@ kheer
 pasta
 chicken fry
 
+beans
+pizza
+
+done my changes
+
 final copy
